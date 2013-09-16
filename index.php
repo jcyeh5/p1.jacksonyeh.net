@@ -2,11 +2,11 @@
  <html>
  <head>
 <meta charset="UTF-8">
- <title>Hello World</title>
+ <title>Welcome</title>
  </head>
 
  <body>
- <?php echo '<p>Hello World!!!!</p>'; ?>
+ <?php echo '<p>Welcome to P1</p>'; ?>
  </body>
 
  </html>
