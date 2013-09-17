@@ -31,7 +31,7 @@ li {
 }
 
 div {
-	border-bottom: thin solid rgb(136,0,0);  
+	border: medium solid rgb(136,0,0);  
 }
 
 p {
@@ -44,10 +44,12 @@ p {
 	padding-left: 2em;
 	padding-right: 2em;
 	padding-top: 1em;
+	padding-bottom: 4em;
 	background: rgb(247,100,100);
 }
 #aboutme
 {
+	clear: right;
 	padding: 10px;
 	background: rgb(247,125,100);
 }
@@ -56,6 +58,14 @@ p {
  font-family:"Times New Roman",Georgia,Serif;
 font-style:italic;
 
+}
+
+#julius {
+	float: right;
+	clear: right;
+	margin: 2 em;
+	border: medium solid rgb(136,0,0);
+	border-right: thick solid rgb(136,0,0);
 }
 
 a:link {text-decoration: none; color: blue; } 
