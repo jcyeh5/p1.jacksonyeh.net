@@ -53,6 +53,7 @@ p {
 	padding: 10px;
 	background: rgb(247,125,100);
 }
+
 #summarystatement {
 
  font-family:"Times New Roman",Georgia,Serif;
@@ -63,7 +64,6 @@ font-style:italic;
 #julius {
 	float: right;
 	clear: right;
-	margin: 2 em;
 	border: medium solid rgb(136,0,0);
 	border-right: thick solid rgb(136,0,0);
 }
