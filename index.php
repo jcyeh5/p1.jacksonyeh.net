@@ -6,7 +6,8 @@
  </head>
 
  <body>
- <?php echo '<p>Welcome to P1</p>'; ?>
+ <?php echo '<p>Welcome to my P1</p>'; ?>
+ <a href= "aboutme.html">about me</a>
  </body>
 
  </html>
