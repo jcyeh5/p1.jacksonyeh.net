@@ -7,7 +7,8 @@ body {
 
 h1 {  
 	font-weight: bolder;
-	color: rgb(100,0,0); 
+	color: rgb(100,0,0);
+	border-bottom: medium solid rgb(136,0,0);  
 }
 
 h2 {
@@ -35,11 +36,14 @@ div {
 
 p {
 	margin: 1em;
-	padding: 1em;
+	padding-left: 1em;
+	padding-bottom: .5em;
 }
 
 #name {
-	padding: 10px;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
 	background: rgb(247,100,100);
 }
 #aboutme
@@ -51,7 +55,7 @@ p {
 
  font-family:"Times New Roman",Georgia,Serif;
 font-style:italic;
-font-size: larger;
+font-size: largest;
 }
 
 a:link {text-decoration: none; color: blue; } 
