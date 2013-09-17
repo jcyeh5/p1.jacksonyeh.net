@@ -1,0 +1,59 @@
+body {
+	margin-left: 5%;
+	margin-right: 5%;  
+	background: rgb(247,230,204);
+	font-family: Calibri,Arial,sans-serif;	
+}  
+
+h1 {  
+	font-weight: bolder;
+	color: rgb(100,0,0); 
+}
+
+h2 {
+	color: rgb(115,0,0);
+	background: rgb(247,125,100);
+	border-bottom: medium solid rgb(136,0,0);  	
+}
+
+h3 {
+	color: rgb(136,0,0);  	
+}
+
+ul {
+	margin-left: 40px;
+	list-style: square ;
+}
+
+li {
+	background: rgb(247,230,204);
+}
+
+div {
+	border-bottom: thin solid rgb(136,0,0);  
+}
+
+p {
+	margin: 1em;
+	padding: 1em;
+}
+
+#name {
+	padding: 10px;
+	background: rgb(247,100,100);
+}
+#aboutme
+{
+	padding: 10px;
+	background: rgb(247,125,100);
+}
+#summarystatement {
+
+ font-family:"Times New Roman",Georgia,Serif;
+font-style:italic;
+font-size: larger;
+}
+
+a:link {text-decoration: none; color: blue; } 
+a:visited  {text-decoration: none; color: red; }
+a:hover { text-decoration: underline; }  
